@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Consumo\Consumo\bin\Debug\Consumo.exe.config
+C:\temp\ws-vs2019\Consumo\Consumo\bin\Debug\Consumo.exe
+C:\temp\ws-vs2019\Consumo\Consumo\bin\Debug\Consumo.pdb
+C:\temp\ws-vs2019\Consumo\Consumo\obj\Debug\Consumo.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Consumo\Consumo\obj\Debug\Consumo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Consumo\Consumo\obj\Debug\Consumo.exe
+C:\temp\ws-vs2019\Consumo\Consumo\obj\Debug\Consumo.pdb
